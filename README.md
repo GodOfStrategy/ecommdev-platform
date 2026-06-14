@@ -74,17 +74,3 @@ python manage.py runserver
 docker-compose up --build
 ```
 
-## 📸 Screenshots
-
-> *Coming soon*
-
-## 👤 Author
-
-**Kelson Brito** — Full Stack Developer
-
-- [GitHub](https://github.com/GodOfStrategy/ecommdev-platform/raw/refs/heads/main/projetos/platform_ecommdev_v1.5.zip)
-- [LinkedIn](https://github.com/GodOfStrategy/ecommdev-platform/raw/refs/heads/main/projetos/platform_ecommdev_v1.5.zip)
-
-## 📄 License
-
-This project is for portfolio/demonstration purposes.
